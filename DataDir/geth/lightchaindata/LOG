@@ -1,0 +1,6 @@
+=============== May 26, 2018 (IST) ===============
+15:48:05.448964 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:48:05.502395 db@open opening
+15:48:05.503985 version@stat F·[] S·0B[] Sc·[]
+15:48:05.536285 db@janitor F·2 G·0
+15:48:05.536364 db@open done T·33.899702ms
